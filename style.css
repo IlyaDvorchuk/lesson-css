@@ -1,0 +1,115 @@
+h1 {
+    font-size: 35px;
+}
+
+/*.paragraph {*/
+/*    color: #333333;*/
+/*    !**/
+/*      Правило color устанавливает цвет текста.*/
+/*      В данном случае — это серый цвет со значением #333333*/
+/*    *!*/
+/*}*/
+
+.text-bold {
+    font-weight: bold;
+}
+
+#red {
+    color: red;
+}
+
+/*p {*/
+/*    font-size: 20px;*/
+/*}*/
+
+/*.text-dark {*/
+/*    color: #333;*/
+/*}*/
+
+/*p {*/
+/*    color: black;*/
+/*}*/
+
+/*.red {*/
+/*    color: red;*/
+/*}*/
+
+/*#blue {*/
+/*    color: blue;*/
+/*}*/
+
+
+/*.paragraph {*/
+/*    color: red;*/
+/*}*/
+
+/*.paragraph.color-primary {*/
+/*    color: blue;*/
+/*}*/
+
+
+/*.left {*/
+/*    text-align: left;*/
+/*}*/
+
+/*.center {*/
+/*    text-align: center;*/
+/*}*/
+
+/*.right {*/
+/*    text-align: right;*/
+/*}*/
+
+/*.justify {*/
+/*    text-align: justify;*/
+/*}*/
+
+/*.text-decoration-none {*/
+/*    text-decoration: none;*/
+/*}*/
+
+
+/*.card {*/
+/*    color: #ffffff;*/
+/*    background-color: #673ab7;*/
+/*}*/
+
+/*.card {*/
+/*    padding-top: 10px;*/
+/*    padding-bottom: 10px;*/
+/*    padding-left: 20px;*/
+
+/*    color: #ffffff;*/
+/*    background-color: #673ab7;*/
+/*}*/
+
+/*.card {*/
+/*    padding: 10px 0 10px 20px;*/
+
+/*    color: #ffffff;*/
+/*    background-color: #673ab7;*/
+/*}*/
+
+/*.square {*/
+/*    width: 100px;*/
+/*    height: 100px;*/
+/*    background-color: #000;*/
+/*}*/
+
+/*.container {*/
+/*    display: flex;*/
+/*}*/
+
+/*.news {*/
+/*    width: 100px;*/
+/*}*/
+
+/*.news h2 {*/
+/*    width: 95%;*/
+/*}*/
+
+/*.absolute-position {*/
+/*    position: absolute;*/
+/*    top: 100px;*/
+/*    left: 100px;*/
+/*}*/
